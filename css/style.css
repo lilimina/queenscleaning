@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5,
   font-weight: bold;
 }
 
+.nav-link:hover {
+  color: #997c3d !important;
+}
+
 .text-primary {
   color: #997c3d !important;
 }
@@ -576,10 +580,6 @@ textarea.form-control {
   }
 }
 
-/* #section-offer {
-  padding: 12em 0;
-} */
-
 .site-section {
   padding: 7em 0;
 }
@@ -599,10 +599,6 @@ textarea.form-control {
 
 .site-footer .site-footer-widget h2 {
   font-weight: normal;
-}
-
-.site-footer p {
-  color: #997c3d;
 }
 
 .site-footer a {
