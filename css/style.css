@@ -585,7 +585,7 @@ textarea.form-control {
 }
 
 .site-bg-dark {
-  background: #222;
+  background: black;
 }
 
 .site-footer {
@@ -602,11 +602,11 @@ textarea.form-control {
 }
 
 .site-footer p {
-  color: rgba(255, 255, 255, 0.3);
+  color: #997c3d;
 }
 
 .site-footer a {
-  color: rgba(255, 255, 255, 0.3);
+  color: #997c3d;
 }
 
 .site-footer a:hover {
